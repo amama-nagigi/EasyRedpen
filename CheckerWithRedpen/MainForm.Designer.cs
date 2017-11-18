@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.textBoxSentence = new System.Windows.Forms.TextBox();
             this.textBoxResult = new System.Windows.Forms.TextBox();
@@ -122,6 +123,7 @@
             this.Controls.Add(this.buttonSetting);
             this.Controls.Add(this.buttonCheck);
             this.Controls.Add(this.panel1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
             this.Text = "Redpen Checker";
             this.splitContainer1.Panel1.ResumeLayout(false);
