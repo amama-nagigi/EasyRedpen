@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EasyRedpen.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RedpenPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\java\redpen-distribution-1.10.0\bin\redpen.bat</Value>
+    </Setting>
+    <Setting Name="JavaHome" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Program Files\Java\jre1.8.0_151</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

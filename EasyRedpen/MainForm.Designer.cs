@@ -1,4 +1,4 @@
-﻿namespace CheckerWithRedpen
+﻿namespace EasyRedpen
 {
     partial class MainForm
     {
@@ -125,7 +125,7 @@
             this.Controls.Add(this.panel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
-            this.Text = "Redpen Checker";
+            this.Text = "EasyRedpen";
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel1.PerformLayout();
             this.splitContainer1.Panel2.ResumeLayout(false);

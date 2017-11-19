@@ -1,4 +1,4 @@
-﻿namespace CheckerWithRedpen
+﻿namespace EasyRedpen
 {
     partial class SettingForm
     {
